@@ -1,0 +1,464 @@
+{
+"starSystems": [
+  {
+    "name": "Solar System",
+    "description": "The Solar System is the gravitationally bound system of the Sun and the objects that orbit it. It formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud.",
+    "mainStar": "Sun",
+    "mainStarDescription": "The Sun is the star at the center of the Solar System. It is a nearly perfect ball of hot plasma,[18][19] heated to incandescence by nuclear fusion reactions in its core. The Sun radiates this energy mainly as light, ultraviolet, and infrared radiation, and is the most important source of energy for life on Earth.",
+    "planets" : [
+      {
+        "name": "Mercury",
+        "mass": "3.285 × 10^23 kg",
+        "distanceFromStar": "58 million km",
+        "orbitalPeriod": "88 days",
+        "temperature": "164 °C",
+        "description": "Mercury is the smallest planet in the Solar System and the closest to the Sun. Its orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets. It is named after the Roman god Mercurius (Mercury), god of commerce, messenger of the gods, and mediator between gods and mortals, corresponding to the Greek god Hermes."
+      },
+      {
+        "name": "Venus",
+        "mass": "4.867 × 10^24 kg",
+        "distanceFromStar": "108.2 million km",
+        "orbitalPeriod": "225 days",
+        "temperature": "464°C",
+        "description": "Venus is the second planet from the Sun. It is sometimes called Earth's sister or twin planet as it is almost as large and has a similar composition. As an interior planet to Earth, Venus (like Mercury) appears in Earth's sky never far from the Sun, either as morning star or evening star. Aside from the Sun and Moon, Venus is the brightest natural object in Earth's sky, capable of casting visible shadows on Earth in dark conditions and being visible to the naked eye in broad daylight."
+      },
+      {
+        "name": "Earth",
+        "mass": "5.972 × 10^24 kg",
+        "distanceFromStar": "149.6 million km",
+        "orbitalPeriod": "365 days",
+        "temperature": "15°C",
+        "description": "Earth is the third planet from the Sun and the only place known in the universe where life has originated and found habitability. While Earth may not contain the largest volumes of water in the Solar System, only Earth sustains liquid surface water, extending over 70.8% of the Earth with its ocean, making Earth an ocean world. Earth's polar regions currently retain most of all other water with large sheets of ice covering ocean and land, dwarfing Earth's groundwater, lakes, rivers and atmospheric water."
+      },
+      {
+        "name": "Mars",
+        "mass": "6.39 × 10^23 kg",
+        "distanceFromStar": "227.9 million km",
+        "orbitalPeriod": "687 days",
+        "temperature": "-65°C",
+        "description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, larger only than Mercury. In the English language, Mars is named for the Roman god of war. Mars is a terrestrial planet with a thin atmosphere and has a crust primarily composed of elements similar to Earth's crust, as well as a core made of iron and nickel."
+      },
+      {
+        "name": "Jupiter",
+        "mass": "1.898 × 10^27 kg",
+        "distanceFromStar": "778.5 million km",
+        "orbitalPeriod": "12 years",
+        "temperature": "-110°C",
+        "description": "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, and slightly less than one one-thousandth the mass of the Sun. Jupiter is the third brightest natural object in the Earth's night sky after the Moon and Venus, and it has been observed since prehistoric times."
+      },
+      {
+        "name": "Saturn",
+        "mass": "5.683 × 10^26 kg",
+        "distanceFromStar": "1.434 billion km",
+        "orbitalPeriod": "29 years",
+        "temperature": "-140°C",
+        "description": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth.[23][24] It has only one-eighth the average density of Earth, but is over 95 times more massive."
+      },
+      {
+        "name": "Uranus",
+        "mass": "8.681 × 10^25 kg",
+        "distanceFromStar": "2.871 billion km",
+        "orbitalPeriod": "84 years",
+        "temperature": "-195°C",
+        "description": "Uranus is the seventh planet from the Sun. It is named after Greek sky deity Uranus (Caelus), who in Greek mythology is the father of Cronus (Saturn), a grandfather of Zeus (Jupiter) and great-grandfather of Ares (Mars). Uranus has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. "
+      },
+      {
+        "name": "Neptune",
+        "mass": "1.024 × 10^26 kg",
+        "distanceFromStar": "4.495 billion km",
+        "orbitalPeriod": "165 years",
+        "temperature": "-200°C",
+        "description": "Neptune is the eighth planet from the Sun and the farthest known planet in the Solar System. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, and slightly more massive than its near-twin Uranus. Neptune is denser and physically smaller than Uranus because its greater mass causes more gravitational compression of its atmosphere."
+      }
+    ]
+  },
+  {
+    "name": "Alpha Centauri",
+    "description": "Alpha Centauri is a triple star system in the southern constellation of Centaurus. It consists of 3 stars: Rigil Kentaurus, Toliman and Proxima Centauri. Proxima Centauri is also the closest star to the Sun at 4.2465 light-years.",
+    "mainStar": "Rigil Kentaurus (Alpha Centauri A), Toliman (B) and Proxima Centauri (C)",
+    "mainStarDescription": "Alpha Centauri A and B are Sun-like stars (Class G and K, respectively), and together they form the binary star system Alpha Centauri AB. To the naked eye, the two main components appear to be a single star with an apparent magnitude of −0.27. Alpha Centauri C, or Proxima Centauri, is a small faint red dwarf (Class M). Though not visible to the naked eye, Proxima Centauri is the closest star to the Sun at a distance of 4.24 ly (1.30 pc), slightly closer than Alpha Centauri AB.",
+    "planets": [
+      {
+        "name": "Proxima B",
+        "mass": "≥1.07±0.06 M",
+        "distanceFromStar": "4.24 light years",
+        "orbitalPeriod": "11 days",
+        "temperature": "−39 °C",
+        "description": "Proxima Centauri b (or Proxima b[4]), sometimes referred to as Alpha Centauri Cb, is an exoplanet orbiting within the habitable zone of the red dwarf star Proxima Centauri, which is the closest star to the Sun and part of the triple star system Alpha Centauri."
+      },
+      {
+        "name": "Proxima D",
+        "mass": "≥0.26±0.05 M",
+        "distanceFromStar": "4.2 light years",
+        "orbitalPeriod": "124 hours",
+        "temperature": "87 °C",
+        "description": "Proxima Centauri d (also called Proxima d) is a candidate exoplanet orbiting the red dwarf star Proxima Centauri, the closest star to the Sun and part of the Alpha Centauri triple star system. Together with two other planets in the Proxima Centauri system, it is the closest known exoplanet to the Solar System, located approximately 4.2 light-years (1.3 parsecs; 40 trillion kilometres; 25 trillion miles) away in the constellation of Centaurus."
+      }
+    ]
+  },
+  {
+    "name": "85 Pegasi",
+    "description": "85 Pegasi is a multiple star system 39.5 light years away in the constellation of Pegasus. The primary component is sixth magnitude 85 Pegasi A, which is a yellow dwarf like the Sun.",
+    "mainStar": "85 Pegasi A, 85 Pegasi B",
+    "mainStarDescription": "The primary component is sixth magnitude 85 Pegasi A, which is a yellow dwarf like the Sun. The secondary component, 85 Pegasi B, is a ninth magnitude orange dwarf that takes 26.28 years to orbit at 10.3.",
+    "planets": [
+    ]
+  },
+  {
+    "name": "ADS 48",
+    "description": "ADS 48 is a multiple star system in the constellation of Andromeda consisting of 7 stars. The components, in order from A to G, have apparent visual magnitudes of 8.826, 8.995, 13.30, 12.53, 11.68, 9.949, and 13.00",
+    "mainStar": "ADS 48 A, ADS 48 B, ADS 48 F",
+    "mainStarDescription": "ADS 48A and ADS 48B are in orbital motion around each other while ADS 48F is a common proper motion companion not gravitationally bound to the pair. The others are unassociated background stars, and component C could be a double star itself.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "Zeta Reticuli",
+    "description": "Zeta Reticuli, Latinized from ζ Reticuli, is a wide binary star system in the southern constellation of Reticulum. From the southern hemisphere the pair can be seen with the naked eye as a double star in very dark skies.",
+    "mainStar": "ζ1 Ret, ζ2 Ret",
+    "mainStarDescription": "Both stars are solar analogs that have characteristics similar to those of the Sun. They belong to the Zeta Herculis Moving Group of stars that share a common origin.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "12 Lyncis",
+    "description": "12 Lyncis, abbreviated 12 Lyn, is a triple star system in the constellation Lynx. It is visible to the naked eye as a faint point of light with a combined apparent visual magnitude of 4.87",
+    "mainStar": "12 Lyn A, 12 Lyn B",
+    "mainStarDescription": "The orbit of the two brighter stars is not known with certainty, but appears to have a period of somewhere around 700 to 900 years.[11] The pair have a projected separation of 128 AU.[4] Parallax indicates the system is 210±10 light years distant from Earth",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "57 Persei",
+    "description": "57 Persei, or m Persei, is a suspected triple star system in the northern constellation of Perseus. It is at the lower limit of visibility to the naked eye, having a combined apparent visual magnitude of 6.08. The annual parallax shift of 16.4 mas provides a distance measure of 199 light years",
+    "mainStar": "m Perse",
+    "mainStarDescription": "The primary member, 57 Persei, is a magnitude 6.18,[10] yellow-white hued F-type main-sequence star with a stellar classification of F0 V,[3] indicating it is generating energy by fusing its core hydrogen. It is an estimated 1.6[7] billion years old and is spinning with a projected rotational velocity of 90 km/s.[3] The star has 1.3[7] times the mass of the Sun and is radiating 11 times the Sun's luminosity from its photosphere at an effective temperature of around 6,615 K.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "CG Cygni",
+    "description": "CG Cygni is a ternary star system composed of main-sequence stars in the constellation of Cygnus about 320 light years away.",
+    "mainStar": "BD+34 4217A, BD+34 4217B",
+    "mainStarDescription": "The star CG Cygni A (BD+34 4217A) itself is a close binary system with ongoing mass transfer between components. The orbital period of the binary is currently increasing. An additional third body (either star or planet) was suspected to exist in the system with an orbital period of 15.9-51 years, creating cyclic period variations of the binary.[6] It was finally confirmed as the star CG Cygni B (BD+34 4217B) in 2020, at a 1.16 arcsecond separation from the primary.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "171 Puppis",
+    "description": "171 Puppis is a triple star system in the constellation of Puppis – the stern of Argo Navis – of apparent magnitude +5.38. Lacking a Bayer designation, it is instead known by its Gould designation. Based upon parallax measurements, the system is 49.6 light years away from the Solar System",
+    "mainStar": "171 Puppis A",
+    "mainStarDescription": "This is a white dwarf star with a classification of DC11.0 and a temperature of 4,600 K, making it one of the coolest white dwarfs known.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "16 Lacertae",
+    "description": "16 Lacertae is a triple star system in the northern constellation of Lacerta, located about 1,580 light years from the Sun. It has the variable star designation EN Lacertae; 16 Lacertae is the Flamsteed designation",
+    "mainStar": "16 Lacertae A",
+    "mainStarDescription": "16 Lacertae is a subgiant star located in the constellation of Lacerta, The Lizard. It is not part of the Lacerta constellation outline but is within the borders of the constellation. Based on the star's spectral type (B2IV), 16 Lacertae's colour is blue.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "3 Centauri",
+    "description": "3 Centauri is a triple star system in the southern constellation of Centaurus, located approximately 300 light years from the Sun. It is visible to the naked eye as a faint, blue-white hued star with a combined apparent visual magnitude of 4.32",
+    "mainStar": "3 Cen A, 3 Cen B",
+    "mainStarDescription": "The brighter member, designated component A, is a magnitude 4.52. The magnitude 5.97[3] secondary, component B, is a single-lined spectroscopic binary star system with an orbital period of 17.4 days and an eccentricity of 0.21.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "40 Eridani",
+    "description": "40 Eridani is a triple star system in the constellation of Eridanus, abbreviated 40 Eri. It has the Bayer designation Omicron² Eridani, which is Latinized from ο² Eridani and abbreviated Omicron² Eri or ο² Eri. Based on parallax measurements taken by the Gaia mission, it is about 16.3 light-years from the Sun",
+    "mainStar": "Keid",
+    "mainStarDescription": "It is orbited by a binary pair whose two components are designated 40 Eridani B and C, and which were discovered on January 31, 1783, by William Herschel.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "Theta Ophiuchi",
+    "description": "Theta Ophiuchi, Latinized from θ Ophiuchi, is a multiple star system in the equatorial constellation of Ophiuchus. It lies on the \"right foot\" of the serpent-bearer, just southwest of Kepler's Star, the nova of 1604",
+    "mainStar": "",
+    "mainStarDescription": "Theta Ophiuchi appears to be a triple star system. The brightest component is a spectroscopic binary with an orbital period of 56.71 days and an eccentricity of 0.17. The third component is 5.5 magnitude star with a stellar classification of B5. Its angular separation from the binary pair is 0.15 arcseconds.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "23 Vulpeculae",
+    "description": "23 Vulpeculae is a triple star system in the northern constellation of Vulpecula. It is visible to the naked eye as a faint, orange-hued star with an apparent visual magnitude of 4.52 and it is located approximately 327 light years away from the Sun based on parallax",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "35 Piscium",
+    "description": "35 Piscium is a triple star system in the northern constellation Pisces, located about 250 light years away from the Sun. Because it is a variable star, it has been given the variable star designation UU Piscium; 35 Piscium is the Flamsteed designation.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "36 Ophiuchi",
+    "description": "36 Ophiuchi is a triple star system 19.5 light-years from Earth. It is in the constellation Ophiuchus. The primary and secondary stars are nearly identical orange main-sequence dwarfs of spectral type K2/K1",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "45 Aquilae",
+    "description": "45 Aquilae, abbreviated 45 Aql, is a triple star system in the equatorial constellation of Aquila. 45 Aquilae is its Flamsteed designation. It is located 350 light-years away from Earth, give or take a 6 light-year margin of error, and has a combined apparent visual magnitude of 5.7",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "16 Cygni",
+    "description": "16 Cygni or 16 Cyg is the Flamsteed designation of a triple star system approximately 69 light-years away from Earth in the constellation of Cygnus",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "29 Arietis",
+    "description": "29 Arietis is a triple star system in the northern constellation of Aries. 29 Arietis is the Flamsteed designation. Its annual parallax shift of 34.86±0.13 mas indicates a distance of about 94 light-years from Earth",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "2 Camelopardalis",
+    "description": "2 Camelopardalis is a triple star system in the northern circumpolar constellation of Camelopardalis, next to the southern constellation border with Perseus. It is dimly visible to the naked eye with a combined apparent visual magnitude of 5.36",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "91 Aquarii",
+    "description": "91 Aquarii is the Flamsteed designation for a triple star system in the equatorial constellation of Aquarius. It also bears the Bayer designation Psi¹ Aquarii. It is visible to the naked eye with an apparent visual magnitude of +4.248",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "60 Andromedae",
+    "description": "60 Andromedae is a star system in the northern constellation of Andromeda, located to the west-northwest of Gamma Andromedae. 60 Andromedae is the Flamsteed designation though the star also bears the Bayer designation b Andromedae.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "94 Aquarii",
+    "description": "94 Aquarii is a triple star system in the equatorial constellation of Aquarius. 94 Aquarii is the Flamsteed designation. The brightest member has an apparent visual magnitude of 5.19, making it visible to the naked eye.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "52 Arietis",
+    "description": "52 Arietis is a triple star system in the northern constellation of Aries. 52 Arietis is the Flamsteed designation. The combined apparent magnitude is +5.46, which is bright enough to be faintly visible to the naked ey",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "74 Aquarii",
+    "description": "74 Aquarii is a triple star system in the constellation of Aquarius. 74 Aquarii is its Flamsteed designation and it also bears the variable star designation HI Aquarii. The combined apparent visual magnitude is 5.8, although it is very slightly variable, and it is located at a distance of 590 light-years from Earth.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "18 Aquilae",
+    "description": "18 Aquilae is a triple star system in the constellation of Aquila. 18 Aquilae is the Flamsteed designation; it also bears the variable star designation Y Aquilae. It has an apparent visual magnitude of 5.07",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "24 Aquarii",
+    "description": "24 Aquarii is a triple star system in the equatorial constellation of Aquarius. 24 Aquarii is the Flamsteed designation. The apparent magnitude of this system is 6.66, which, according to the Bortle Dark-Sky Scale, means it is a faint star that is just visible to the naked eye from dark, rural skies",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "16 Aurigae",
+    "description": "16 Aurigae is a triple star system located 232 light years away from the Sun in the northern constellation of Auriga. It is visible to the naked eye as a faint, orange-hued star with an apparent visual magnitude of 4.547, and is located about 2/3 of the way from Capella toward Beta Tauri",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "39 Boötis",
+    "mainStarDescription": "",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "44 Boötis",
+    "description": "44 Boötis or i Boötis is a triple star system in the constellation Boötes. It is approximately 41.6 light years from Earth. 44 Boötis can be resolved into two stars, of 5th and 6th magnitudes respectively",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "24 Cancri",
+    "description": "24 Cancri is a triple star system in the constellation Cancer. The system is located about 226 light-years away, based on its parallax. The system has a combined apparent magnitude of 6.5, and the two components A and B are separated by 5.7″",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "27 Hydrae",
+    "description": "27 Hydrae is a member of a triple star system system in the equatorial constellation of Hydra, located 222 light years away from the Sun. It is visible to the naked eye as a faint, orange-hued star with a combined apparent visual magnitude of 4.82.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "26 Draconis",
+    "description": "26 Draconis is a triple star system in the constellation Draco, located 46 light years from the Sun. Two of the system components, A and B, form a spectroscopic binary that completes an orbit every 76 years",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "41 G. Arae",
+    "description": "41 G. Arae, also known as GJ 666, is a trinary star system in the constellation Ara 28.7 light-years from the Sun. Although often called just 41 Arae, it is more accurate to call it 41 G. Arae, as the number 41 is the Gould designation",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "16 Sagittarii",
+    "description": "16 Sagittarii is a multiple star system in the southern zodiac constellation of Sagittarius. It is near the lower limit of brightness for stars that can be seen with the naked eye, having an apparent visual magnitude of 6.02. The estimated distance to this system is about 4,600 light years",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "37 Comae Berenices",
+    "description": "37 Comae Berenices is a variable star system located around 690 light years away from the Sun in the northern constellation of Coma Berenices. It has the variable star designation LU Comae Berenices. 37 Comae Berenices was a later Flamsteed designation of 13 Canum Venaticorum.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "1 Geminorum",
+    "description": "1 Geminorum is a star in the constellation Gemini. Its apparent magnitude is 4.15. In the 19th century, John Flamsteed numbered the brighter stars, by constellation, from west to east, and 1 Geminorum was the first star listed in Gemini.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "19 Lyncis",
+    "description": "19 Lyncis is a triple star system in the northern constellation of Lynx. A telescope reveals it consists of two blue-white hued stars of magnitudes 5.80 and 6.86 that are 14.750 arcseconds apart, with a visual companion of magnitude 7.6 that is 3.5 arcminutes distant",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "32 Orionisi",
+    "description": "32 Orionis is a triple star system in the equatorial constellation of Orion. It has the Bayer designation A Orionis, while 32 Orionis is the Flamsteed designation. This system is visible to the naked eye as a faint point of light with a combined apparent visual magnitude of 4.20",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "Theta² Orionis",
+    "description": "Theta² Orionis is a multiple star system in the constellation Orion. It is a few arc minutes from its more famous neighbour the Trapezium Cluster, also known as θ¹ Orionis",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "52 Persei",
+    "description": "52 Persei is a suspected triple star system in the northern constellation of Perseus. It has the Bayer designation f Persei, while 52 Persei is the Flamsteed designation. The system is visible to the naked eye as a faint, yellow-hued point of light with an apparent visual magnitude of 4.68",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "55 Ursae Majoris",
+    "description": "55 Ursae Majoris is a triple star system in the constellation Ursa Major. Its apparent magnitude is 4.80. Two stars form a close spectroscopic binary with an orbital period of 2.55 days. The third star orbits the central pair every 1873 days. All three stars are A-type main-sequence stars.",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "2M1510",
+    "description": "2MASS J15104761–2818234, sometimes shortened to 2M1510, is a triple or possibly quadruple brown dwarf system, consisting of the eclipsing binary 2M1510A and the wide companion 2M1510B. 2M1510A was found to be an eclipsing binary in the first light data of the SPECULOOS telescopes",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "2M 1938+4603",
+    "description": "2MASS J19383260+4603591 is a binary star system with at least one known planet, Kepler-451b. The system comprises two stars, a pulsating subdwarf B star as well as a small red dwarf star.",
+    "planets" : [
+      {
+        "name": "Kepler-451b",
+        "mass": "604±32 MEarth",
+        "distanceFromStar": "1292.8",
+        "orbitalPeriod": "416±2 days",
+        "temperature": "6,800 C",
+        "description": "Kepler-451b, also known as 2MASS J19383260+4603591 b, is a circumbinary exoplanet orbiting the star 2MASS J19383260+4603591. It has a mass of 604±32 Earth Masses or 1.9±0.1 Jupiter Masses. It was discovered using Eclipse Timing Variations by the Kepler space telescope in 2015. The existence of the planet was disputed in 2020 though,[3] but in 2022 a confirmation was announced."
+      }
+    ]
+  },
+  {
+    "name": "HD 133131",
+    "description": "HD 133131 is a binary star in the constellation of Libra. It is roughly 168 light-years away from the Sun. It consists of two G-type main-sequence stars; neither are bright enough to be seen with the naked eye",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "Kepler-444",
+    "description": "Kepler-444 is a triple star system, estimated to be 11.2 billion years old, approximately 119 light-years away from Earth in the constellation Lyra. On 27 January 2015, the Kepler spacecraft is reported to have confirmed the detection of five sub-Earth-sized rocky exoplanets orbiting the main star",
+    "planets" : [
+      {
+        "name": "Kepler-444b",
+        "mass": "0.0374 Earths",
+        "distanceFromStar": "1,115 light years",
+        "orbitalPeriod": "3.600105 days",
+        "temperature": "",
+        "description": ""
+      },
+      {
+        "name": "Kepler-444c",
+        "mass": "",
+        "distanceFromStar": "1115.5 light years",
+        "orbitalPeriod": "4.545876 days",
+        "temperature": "",
+        "description": ""
+      },
+      {
+        "name": "Kepler-444d",
+        "mass": "+0.065−0.020 M",
+        "distanceFromStar": "1,206 light years",
+        "orbitalPeriod": "6.189437 days",
+        "temperature": "",
+        "description": ""
+      },
+      {
+        "name": "Kepler-444e",
+        "mass": "",
+        "distanceFromStar": "+0.059−0.019 M",
+        "orbitalPeriod": "7.743467 days",
+        "temperature": "",
+        "description": ""
+      },
+      {
+        "name": "Kepler-444f",
+        "mass": "",
+        "distanceFromStar": "",
+        "orbitalPeriod": "9.740501 days",
+        "temperature": "",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "55 Cancri",
+    "description": "55 Cancri is a binary star system located 41 light-years away from the Sun in the zodiac constellation of Cancer. It has the Bayer designation Rho¹ Cancri; 55 Cancri is the Flamsteed designation. The system consists of a K-type star and a smaller red dwarf",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "HD 142",
+    "description": "HD 142 is a wide binary star system in the southern constellation of Phoenix. The main component has a yellow-white hue and is dimly visible to the naked eye with an apparent visual magnitude of 5.7",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "Theta Persei",
+    "description": "Theta Persei is a star system 37 light years away from Earth, in the constellation Perseus. It is one of the closest naked-eye stars",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "11 Leonis Minoris",
+    "description": "11 Leonis Minoris is a binary star located 36.5 light years away from Earth, in the northern constellation of Leo Minor. It is visible to the naked eye as a dim, yellow-hued star with an apparent visual magnitude of 5.54",
+    "planets" : [
+    ]
+  },
+  {
+    "name": "HR 9038",
+    "description": "HR 9038 is a triple star system located thirty-five light-years away, in the constellation Cepheus. Component A is a spectroscopic binary system with an orbital period of 7.753 days and a combined stellar classification of K3 V.",
+    "planets" : [
+    ]
+  }
+]
+}
